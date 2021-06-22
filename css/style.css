@@ -1,0 +1,40 @@
+header {
+    height: 70px;
+    border: 1px solid coral;
+}
+
+.container-fluid{
+    border: 1px dashed black;
+}
+
+.container{
+    border:1px solid black; 
+}
+
+[class*="col"] {
+    border: 1px solid green;
+}
+
+.jumbo {
+    height: 300px;
+}
+
+.img div{
+    min-height: 100px; 
+}
+.about{
+    height: 300px;
+}
+
+
+.contact{
+    height: 300px;
+}
+
+footer col{
+    border: 1px solid blue;
+}
+
+footer div{
+    min-height: 50px;
+}
