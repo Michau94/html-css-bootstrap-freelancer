@@ -23,22 +23,9 @@
     border: 1px solid black;
 }
 
-.container-fluid {
-    border: 1px dashed black;
-}
-
-.container {
-    border: 1px solid black;
-}
 
 [class*="col"] {
     /* border: 1px solid green;*/
 }
 
-footer col {
-    border: 1px solid blue;
-}
 
-footer div {
-    min-height: 50px;
-}
