@@ -10,20 +10,17 @@
     background-color: #3a546d;
 }
 
+.text-acqua {
+    color: #1abc9c;
+}
+
 #form .btn-primary {
     background-color: #1abc9c;
     border-color: #1abc9c;
 }
+
 /*! per pigrizia */
 
 .portfolio-img img {
     border-radius: 10px;
 }
-
-
-
-
-
-
-
-
