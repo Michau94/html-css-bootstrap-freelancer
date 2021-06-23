@@ -10,22 +10,20 @@
     background-color: #3a546d;
 }
 
-.portfolio-img img {
-    border-radius: 10px;
-}
-
 #form .btn-primary {
     background-color: #1abc9c;
     border-color: #1abc9c;
 }
+/*! per pigrizia */
 
-.border {
-    border: 1px solid black;
+.portfolio-img img {
+    border-radius: 10px;
 }
 
 
-[class*="col"] {
-    /* border: 1px solid green;*/
-}
+
+
+
+
 
 
